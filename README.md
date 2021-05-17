@@ -1,1 +1,2 @@
 # hcde-410-final
+This project analyzes nutrional data in the United States and is used to study food insecurity and nutrional patterns. The research question for the project is: how do nutrional and demographic patterns in the United States impact food inequity and barriers to food access? Methods for the project will include regression analysis and cluster analysis of American populations and their nutrional patterns. The project will make use of a dataset provided by FoodData Central and will be worked over the course of several weeks in May and June 2021.
